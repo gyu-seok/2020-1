@@ -1,0 +1,4 @@
+1) git 페이지가서 저장소 만들기(remote respository)
+2) git scm.com/downloads 들어가서 소프트웨어 설치
+3) cmd 창들어가서 기본 환경설정 해놓기
+4) 폴더를 만들고(local repository) remote repository와 동기화
